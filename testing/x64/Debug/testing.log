@@ -1,0 +1,6 @@
+﻿  testing.cpp
+C:\Users\Terry Johnson\source\repos\testing\testing.cpp(250,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Terry Johnson\source\repos\testing\testing.cpp(254,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Terry Johnson\source\repos\testing\testing.cpp(256,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Terry Johnson\source\repos\testing\testing.cpp(327,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  testing.vcxproj -> C:\Users\Terry Johnson\source\repos\testing\x64\Debug\testing.exe
